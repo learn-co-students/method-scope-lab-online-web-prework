@@ -6,10 +6,8 @@ end
 
 
 
-## Comment the below back in to see method scope in action!
+ruby lib/rescue_princess_peach.rb
 
-# rescue_princess_peach
-# puts status
 
 
 
