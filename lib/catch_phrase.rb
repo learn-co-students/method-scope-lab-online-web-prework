@@ -1,3 +1,3 @@
-def catch_phrase
+def  "It's-a me, Mario!"
   puts phrase
 end
