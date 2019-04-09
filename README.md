@@ -1,4 +1,4 @@
-# Method Scope Lab
+q# Method Scope Lab
 
 ## Objectives
 
