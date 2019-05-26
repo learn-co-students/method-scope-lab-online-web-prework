@@ -1,5 +1,5 @@
 require "spec_helper"
-
+catch_phrase = "Its-a me Mario"
 describe "#catch_phrase" do 
   it "puts out a catch phrase" do 
     phrase = "It's-a me, Mario!"
